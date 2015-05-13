@@ -1,0 +1,133 @@
+<!doctype html> 
+
+<html> 
+
+<head> 
+
+<style> 
+
+body { 
+
+ background-image: url("http://www.etumoana.com/fileadmin/templates/img_bs/villas-sunrice3.jpg"); 
+
+ text-align: center; 
+
+ color: white; 
+
+ font-family: sans-serif; 
+
+
+} 
+
+button {  
+
+ color: white;  
+
+ background-color: royalblue;  
+
+ border: none;  
+
+ border-radius: 5px;  
+
+ padding: 30px;  
+
+ margin-top: 20px;  
+
+ }  
+
+section {  
+
+text-align: center;        
+
+height: 950px;  
+
+background-size: cover; 
+
+} 
+
+
+.tint { 
+
+ position: relative; 
+
+ float: center; 
+
+ height: 400px; 
+
+ cursor: pointer; 
+
+} 
+
+
+.tint:before { 
+
+ content: ""; 
+
+ display: block; 
+
+ position: absolute; 
+
+ top: 0; 
+
+ bottom: 0; 
+
+ left: -50px; 
+
+ right: -50px; 
+
+ background: rgba(0,0,0, 0.5); 
+
+ -moz-transition: background .3s linear; 
+
+ -webkit-transition: background .3s linear; 
+
+ -o-transition: background .3s linear; 
+
+ transition: background .3s linear; 
+
+} 
+
+
+ p span {  
+
+   color: white   ;  
+
+   font: bold; 
+
+
+} 
+
+</style> 
+
+</head> 
+
+<body><br> 
+
+<br> 
+
+<br> 
+
+<br> 
+
+<figure class="tint"> 
+
+
+
+<h1 style="color: white    ";>EXTRA CREDIT</h1> 
+
+<h4 style="color: white   ";>code this website</h4> 
+
+<section> 
+
+ <button>START NOW!</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<p style="color: white    ; text-align:center";> it's easy if you know your<span style="color:blue";> HTML</span> and<span style="color:blue";> CSS</p> 
+
+<p style="color:blue";>DUE WEEK 6</p> 
+
+</section></figure></span> 
+
+
+</body> 
+
+</html> 
